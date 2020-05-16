@@ -1,0 +1,2 @@
+Support Vector Machine
+Q) Generate a separable dataset of size 1000 and 2 features. Plot the samples on a graph and mark the support vectors for the dataset. Also, show that changing the vectors other than the support vectors has no effect on the decision boundary.
